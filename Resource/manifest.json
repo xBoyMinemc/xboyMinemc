@@ -1,0 +1,50 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "\u00A73This is a xBeta Edition!\n\u00A78By Xboy minemc",
+        "name": "『Holographic map』Resource Pack",
+        "uuid": "1e42cf1e-987e-11e9-a2a3-2a2ae2dbbc17",
+        "version": [0, 0, 2],
+        "min_engine_version": [1, 18, 0]
+    },
+    "modules": [
+        {
+            "description": "『Holographic map』Resource Pack",
+            "type": "resources",
+            "uuid": "256e9caf-d7f9-42d3-ac8b-f3550c97b223",
+            "version": [0, 0, 1]
+        }
+    ],
+  "subpacks": [
+    {
+      "folder_name": "512",
+			"name": "Use this option with 512x512 texture packs",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "256",
+			"name": "Use this option with 256x256 texture packs",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "128",
+			"name": "Use this option with 128x128 texture packs",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "64",
+			"name": "Use this option with 64x64 texture packs",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "32",
+			"name": "Use this option with 32x32 texture packs",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "16",
+			"name": "Use this option with 16x16 texture packs",
+			"memory_tier": 0
+    }
+  ]
+}
